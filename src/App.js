@@ -65,7 +65,7 @@ const App = () => {
 				<React.Fragment>
 					<label>Entro de ferias em  {time.Days } Dias</label>
 					<label>em horas da { time.Hour } horas</label>
-					<label>em minutos da { time.Hour } minutos</label>
+					<label>em minutos da { time.Min } minutos</label>
 					<label>em segundos da { time.Sec } segundos</label>
 				</React.Fragment>
 		}
