@@ -6,9 +6,9 @@ import fogos from './fogos.gif';
 const App = () => {
 	const [ time, settime] = useState({
 		Days:0,
-		Hour:0,
-		Min:0,
-		Sec:0
+		Hour:40,
+		Min:1,
+		Sec:1
 	});
 	const vacationStart = new Date("2019-10-16 17:00");
 
