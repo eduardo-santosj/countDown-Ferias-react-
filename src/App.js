@@ -5,10 +5,10 @@ import fogos from './fogos.gif';
 
 const App = () => {
 	const [ time, settime] = useState({
-		Days:0,
-		Hour:40,
-		Min:1,
-		Sec:1
+		Days:null,
+		Hour:null,
+		Min:null,
+		Sec:null
 	});
 	const vacationStart = new Date("2019-10-16 17:00");
 
@@ -50,6 +50,9 @@ const App = () => {
 			counter(vacationStart);
 		  }, 1000);
 	}
+	
+	if(time.Days === null)
+	  return(<div>calculando</div>);
 
 	return (
     <div className="App">
