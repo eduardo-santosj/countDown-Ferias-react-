@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/countDown-Ferias-react-/static/css/main.b911162f.chunk.css",
-    "main.js": "/countDown-Ferias-react-/static/js/main.f66f42af.chunk.js",
-    "main.js.map": "/countDown-Ferias-react-/static/js/main.f66f42af.chunk.js.map",
+    "main.js": "/countDown-Ferias-react-/static/js/main.7d31eddd.chunk.js",
+    "main.js.map": "/countDown-Ferias-react-/static/js/main.7d31eddd.chunk.js.map",
     "runtime-main.js": "/countDown-Ferias-react-/static/js/runtime-main.aa66d3e4.js",
     "runtime-main.js.map": "/countDown-Ferias-react-/static/js/runtime-main.aa66d3e4.js.map",
     "static/js/2.675a0934.chunk.js": "/countDown-Ferias-react-/static/js/2.675a0934.chunk.js",
     "static/js/2.675a0934.chunk.js.map": "/countDown-Ferias-react-/static/js/2.675a0934.chunk.js.map",
     "index.html": "/countDown-Ferias-react-/index.html",
-    "precache-manifest.b502d5aa40cf5386aa71271e3dfef4bd.js": "/countDown-Ferias-react-/precache-manifest.b502d5aa40cf5386aa71271e3dfef4bd.js",
+    "precache-manifest.b38ef689132cb6c75fa4a6eacb77f0be.js": "/countDown-Ferias-react-/precache-manifest.b38ef689132cb6c75fa4a6eacb77f0be.js",
     "service-worker.js": "/countDown-Ferias-react-/service-worker.js",
     "static/css/main.b911162f.chunk.css.map": "/countDown-Ferias-react-/static/css/main.b911162f.chunk.css.map",
     "static/media/fogos.gif": "/countDown-Ferias-react-/static/media/fogos.e1caf709.gif",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.aa66d3e4.js",
     "static/js/2.675a0934.chunk.js",
     "static/css/main.b911162f.chunk.css",
-    "static/js/main.f66f42af.chunk.js"
+    "static/js/main.7d31eddd.chunk.js"
   ]
 }
