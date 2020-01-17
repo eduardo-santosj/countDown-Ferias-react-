@@ -10,7 +10,7 @@ const App = () => {
 		Min:null,
 		Sec:null
 	});
-	const vacationStart = new Date("2019-10-16 17:00");
+	const vacationStart = new Date("2021-01-16 00:00");
 
 	useEffect(() => {
 		counter(vacationStart);
@@ -56,17 +56,12 @@ const App = () => {
 
 	return (
     <div className="App">
-		{ 
-			time.Hour < 14 ?
-				<h2>Ja estou de ferias na Australia</h2>:
-				"" 
-		}
-		
 		{
 			 time.Sec === 0?
-				<h1>Estou de ferias carai!!!!!</h1>:
+				<h1>&#127881;&#127882;O grande Dia chegou!!&#128112;&#128147;&#129333;&#128149;</h1>:
 				<React.Fragment>
-					<label>Entro de ferias em  {time.Days } Dias</label>
+					<label>Por aqui estamos em contagem regressiva &#128112;&#128147;&#129333;</label>
+					<label>em dias da {time.Days } Dias</label>
 					<label>em horas da { time.Hour } horas</label>
 					<label>em minutos da { time.Min } minutos</label>
 					<label>em segundos da { time.Sec } segundos</label>
