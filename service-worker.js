@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/countDown-Ferias-react-/precache-manifest.1fa05c25921a6585b1ab6550d916b03b.js"
+  "/countDown-Ferias-react-/precache-manifest.1559bb78a52e31515d4f3bf5a087743d.js"
 );
 
 self.addEventListener('message', (event) => {

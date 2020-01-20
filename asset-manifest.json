@@ -1,23 +1,27 @@
 {
   "files": {
-    "main.css": "/countDown-Ferias-react-/static/css/main.751cdc8e.chunk.css",
-    "main.js": "/countDown-Ferias-react-/static/js/main.90b1f9f7.chunk.js",
-    "main.js.map": "/countDown-Ferias-react-/static/js/main.90b1f9f7.chunk.js.map",
-    "runtime-main.js": "/countDown-Ferias-react-/static/js/runtime-main.bf8c737c.js",
-    "runtime-main.js.map": "/countDown-Ferias-react-/static/js/runtime-main.bf8c737c.js.map",
-    "static/js/2.5e0e1be9.chunk.js": "/countDown-Ferias-react-/static/js/2.5e0e1be9.chunk.js",
-    "static/js/2.5e0e1be9.chunk.js.map": "/countDown-Ferias-react-/static/js/2.5e0e1be9.chunk.js.map",
+    "main.css": "/countDown-Ferias-react-/static/css/main.b2f0c717.chunk.css",
+    "main.js": "/countDown-Ferias-react-/static/js/main.b1ce78be.chunk.js",
+    "main.js.map": "/countDown-Ferias-react-/static/js/main.b1ce78be.chunk.js.map",
+    "runtime-main.js": "/countDown-Ferias-react-/static/js/runtime-main.aa66d3e4.js",
+    "runtime-main.js.map": "/countDown-Ferias-react-/static/js/runtime-main.aa66d3e4.js.map",
+    "static/css/2.a641e29a.chunk.css": "/countDown-Ferias-react-/static/css/2.a641e29a.chunk.css",
+    "static/js/2.29fd2f8d.chunk.js": "/countDown-Ferias-react-/static/js/2.29fd2f8d.chunk.js",
+    "static/js/2.29fd2f8d.chunk.js.map": "/countDown-Ferias-react-/static/js/2.29fd2f8d.chunk.js.map",
     "index.html": "/countDown-Ferias-react-/index.html",
-    "precache-manifest.1fa05c25921a6585b1ab6550d916b03b.js": "/countDown-Ferias-react-/precache-manifest.1fa05c25921a6585b1ab6550d916b03b.js",
+    "precache-manifest.1559bb78a52e31515d4f3bf5a087743d.js": "/countDown-Ferias-react-/precache-manifest.1559bb78a52e31515d4f3bf5a087743d.js",
     "service-worker.js": "/countDown-Ferias-react-/service-worker.js",
-    "static/css/main.751cdc8e.chunk.css.map": "/countDown-Ferias-react-/static/css/main.751cdc8e.chunk.css.map",
+    "static/css/2.a641e29a.chunk.css.map": "/countDown-Ferias-react-/static/css/2.a641e29a.chunk.css.map",
+    "static/css/main.b2f0c717.chunk.css.map": "/countDown-Ferias-react-/static/css/main.b2f0c717.chunk.css.map",
     "static/media/fogos.gif": "/countDown-Ferias-react-/static/media/fogos.e1caf709.gif",
+    "static/media/mes12.gif": "/countDown-Ferias-react-/static/media/mes12.399d4d51.gif",
     "static/media/tenor.gif": "/countDown-Ferias-react-/static/media/tenor.ebe2c937.gif"
   },
   "entrypoints": [
-    "static/js/runtime-main.bf8c737c.js",
-    "static/js/2.5e0e1be9.chunk.js",
-    "static/css/main.751cdc8e.chunk.css",
-    "static/js/main.90b1f9f7.chunk.js"
+    "static/js/runtime-main.aa66d3e4.js",
+    "static/css/2.a641e29a.chunk.css",
+    "static/js/2.29fd2f8d.chunk.js",
+    "static/css/main.b2f0c717.chunk.css",
+    "static/js/main.b1ce78be.chunk.js"
   ]
 }
